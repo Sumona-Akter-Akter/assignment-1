@@ -1,0 +1,124 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.banner-card{
+    position: relative;
+}
+
+.banner-card img{
+    width: 1050px;
+    height: 600px;
+    text-align: center;
+    border-radius: 16px;
+    background: linear-gradient;
+    
+}
+.banner-text {
+    position: absolute;
+    top: 10%;
+    left:25%;
+    right: 25%;
+    color: #fff;
+    padding: 10px;
+}
+
+.banner-container {
+   color:red;
+   text-align: center;
+   top: 20px;
+   left: 25%;
+   right: 20%;
+   padding: 10px;
+}
+.banner-container p{
+    color:red;
+    text-align: center;
+    font-size: 10px;
+    font-weight: 500;
+}
+
+.banner-container h3{
+    color:black;
+    width: 700;
+}
+img{
+    text-align: center;
+    border-radius: 5px;
+    height: 500px;
+    width: 200px;
+    
+}
+main{
+    max-width: 1050px;
+    margin: 0 auto;
+}
+main section{
+    margin-top:130px;
+}
+.banner-content{
+    display: flex;
+    text-align: center;
+}
+.banner-content img{
+    width: 1320px;
+    height: 600px;
+    text-align: center
+    border-radius 16px;
+    background-position: center;
+}
+.about{
+    display: flex;
+    align-items: center;
+    min-height: 80vh;
+    background: url(../B9A1-New-Year-New-Mission/resources/Vectorrr.png)no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.about .content{
+    max-width: 50rem;
+}
+.about .content h3{
+    font-size: 40px;
+    color: white;
+    text-align: left;
+}
+.about .content p{
+    color: white;
+    font-size: 20px;
+    padding: 1px 0;
+    line-height: 1.5;
+}
+
+.btn-primary{
+    background: red;
+    color: white;
+    text-align: center;
+
+}
+.about .images{
+    display: flex;
+    width: 500px;
+    height: 500px;
+    padding: 13px 0px 30px 0px;
+    flex-direction: column;
+    justify-content: right;
+    text-align: right;
+}
+.about-info{
+    text-align: center;
+ 
+
+  
+}
+.info-title{
+    color: red;
+}
+.section-greeting{
+    color: red;
+}
+
+
+
+
